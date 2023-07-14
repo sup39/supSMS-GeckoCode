@@ -1,0 +1,32 @@
+    <code>
+        <category>misc</category>
+        <title lang="en-US">Fast Forward</title>
+        <title lang="ja-JP">早送り</title>
+        <author>sup39(サポミク)</author>
+        <version>0.1</version>
+        <date>Apr 25, 2022</date>
+        <description lang="en-US">
+            Fast forward the game when the following button combination is pressed.
+
+            |  Combination  |  Result |
+            |---------------|------|
+            |B + D-Pad Left | Fast forward 4x |
+            |B + D-Pad Right| Fast forward 8x (lag may occur) |
+
+            ::: warning
+            SGT will be inaccurate with this code.
+            :::
+        </description>
+        <description lang="ja-JP">
+            次のボタンを押している間にゲームを早送りします。
+
+            |  ボタン  |  効果 |
+            |--------------|------|
+            |B + 十字キー左|4倍速|
+            |B + 十字キー右|8倍速(ラグが発生する可能性があります)|
+
+            ::: warning
+            このコードを使うとシャインゲットタイマーのタイムがずれます。  
+            :::
+        </description>
+    </code>

@@ -1,0 +1,28 @@
+    <code>
+        <category>misc</category>
+        <title lang="en-US">Stage Intro Skip</title>
+        <title lang="ja-JP">デモムービースキップ</title>
+        <author>sup39(サポミク)</author>
+        <version>0.1</version>
+        <date>Jul 27, 2022</date>
+        <description lang="en-US">
+            Fast forward the stage intro movie.
+
+            ::: warning
+            SGT will be inaccurate with this code.  
+            :::
+
+            - Press `R + D-Pad Up` to enable
+            - Press `R + D-Pad Down` to disable
+        </description>
+        <description lang="ja-JP">
+            ステージに入った時のデモムービーを早送りします。
+
+            ::: warning
+            このコードを有効にするとシャインゲットタイマーのタイムがずれます。
+            :::
+
+            - `R + 十字キー上`でコードを有効にします
+            - `R + 十字キー下`でコードを無効にします
+        </description>
+    </code>

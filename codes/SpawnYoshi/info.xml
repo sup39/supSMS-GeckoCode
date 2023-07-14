@@ -1,0 +1,26 @@
+    <code>
+        <category>misc</category>
+        <title lang="en-US">Spawn Yoshi</title>
+        <title lang="ja-JP">どこでもヨッシー</title>
+        <author>sup39(サポミク)</author>
+        <version>0.1</version>
+        <date>Oct 14, 2022</date>
+        <description lang="en-US">
+            Spawn and ride on Yoshi
+            |  Combination  |  Yoshi's Color  |
+            |---------------|------|
+            |Y + D-Pad Left |Orange|
+            |Y + D-Pad Right|Purple|
+            |Y + D-Pad Down |Pink  |
+            |Y + D-Pad Up   |Green |
+        </description>
+        <description lang="ja-JP">
+            次のボタンでどこでもヨッシーに乗れます。
+            |  ボタン  |  ヨッシーの色 |
+            |--------------|------|
+            |Y + 十字キー左|オレンジ|
+            |Y + 十字キー右|紫|
+            |Y + 十字キー下|ピンク|
+            |Y + 十字キー上|緑|
+        </description>
+    </code>
