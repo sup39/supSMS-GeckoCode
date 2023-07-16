@@ -1,11 +1,12 @@
 .set aArea,  14 + gpApplication
 .set aBL,    1160 + TMarDirector_updateGameMode
+.set $button, 0x208
 
 .L_C2:
 # check input
   lis       r3, mPadStatus@ha
   lhz       r5, mPadStatus@l(r3)
-  cmplwi    r5, 0x801
+  cmplwi    r5, $button
   bne+      .L_done
 # reset QFT
   lis       r3, 0x817F

@@ -16,7 +16,7 @@
 ### r12 = consoleStr
   lwz r12, 0x94(r12)
 ### r12 = state?
-  lwz r11, 0x2BC(r12)
+  lwz r11, .offState(r12)
   cmpwi r11, 3
 ## return if state > 3
   bgt+ .L.orig

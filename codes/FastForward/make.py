@@ -2,7 +2,7 @@ from supSMSGecko import make_xml, symbols, Button as B
 
 def main(g, ver):
   S = symbols[ver]
-  addr_inst = 0x26 + S['TMarDirector::direct']
+  addr_inst = 0x26 + S['TMarDirector_direct']
   addr_input = S['mPadStatus']
   # code
   g.write16(addr_inst, 600)

@@ -1,6 +1,6 @@
 /** Kill the Yoshi egg and spawn Yoshi immediately. */
 
-.set rInput, 3
+.set rInput, 4
 
 .TEggYoshi.control.killEgg:
 ## check input
