@@ -1,0 +1,15 @@
+    <code>
+        <id>controller</id>
+        <category>metadata</category>
+        <title lang="en-US">Controller Input Display</title>
+        <title lang="ja-JP">コントローラ入力表示</title>
+        <author>sup39(サポミク)</author>
+        <version>0.1</version>
+        <date>Feb 05, 2023</date>
+        <description lang="en-US">
+            Display controller input.
+        </description>
+        <description lang="ja-JP">
+            コントローラ入力を表示します。
+        </description>
+    </code>
